@@ -1,12 +1,12 @@
 # *insight*
 
-*insight* is an open-source bitcoin blockchain explorer with complete REST
-and websocket APIs. Insight runs in NodeJS, uses AngularJS for the
-front-end and LevelDB for storage.
+*insight* is an open-source DogecoinDark blockchain explorer with complete REST and websocket APIs. 
+
+Insight runs in NodeJS, uses AngularJS for the front-end and LevelDB for storage.
 
 Check some screenshots and more details at [insight's project homepage](http://insight.is/).
 
-*Insight* project is now splitted in two repositories. One for the [API](https://github.com/doged/insight-api) and for the front-end. This repository is for the front-end, which will install the API as a NPM dependency.
+*Insight* project is now splitted in two repositories. One for the [API](https://github.com/doged/insight-api) and for the front-end. This repository is for the front-end, which will auto install the API as an NPM dependency.
 
 ## Prerequisites
 
@@ -108,11 +108,11 @@ at insight-api's home path (edit the path according your setup).
 
 ## Note
 
-For more details about the *insight API* configs and end-point, just go to [insight API github repository](https://github.com/bitpay/insight-api) or read the [documentation](https://github.com/bitpay/insight-api/blob/master/README.md)
+For more details about the *insight API* configs and end-point, just go to [insight API github repository](https://github.com/doged/insight-api) or read the [documentation](https://github.com/doged/insight-api/blob/master/README.md)
 
 ## Contribute
 
-Contributions and suggestions are welcomed at [insight github repository](https://github.com/bitpay/insight).
+Contributions and suggestions are welcomed at [insight github repository](https://github.com/doged/insight).
 
 
 ## License
