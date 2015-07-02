@@ -150,12 +150,8 @@
             <td class="text-right">{{info.difficulty['proof-of-work']}}</td>
           </tr>
           <tr>
-           <td>Staking Difficulty</td>
-            <td class="text-right">{{info.difficulty['proof-of-stake']}}</td>
-          </tr>
-          <tr>
            <td>Network MH/s</td>
-            <td class="text-right" data-ng-controller="StatusController" data-ng-init="getStatus('MiningInfo')">{{info.netmhashps}}</td>
+            <td class="text-right" data-ng-controller="StatusController" data-ng-init="getStatus('MiningInfo')">{{info.networkhashps}}</td>
           </tr>
           <tr>
             <td>Testnet</td>
