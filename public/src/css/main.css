@@ -6991,7 +6991,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 #powered a.bitcore {
-    background-image: url(http://bitcore.io/images/logo.svg);
+    background-image: url(/img/logo.svg);
     background-size: 80px;
     width: 30%;
 }
